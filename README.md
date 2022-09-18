@@ -11,6 +11,14 @@ They are the following the following:
 
 ## Deliverable 1: Add Tectonic Plate Data
 
+![tectonic Plates](https://github.com/AnaMMoreira/Mapping_Earthquakes/blob/main/EartherQuakes_TactonicPlates.png)
+
 
 Deliverable 2: Add Major Earthquake Data
+
+![Add Major EarthQuakes](https://github.com/AnaMMoreira/Mapping_Earthquakes/blob/main/ADD_Major_EarthQuakes_TactonicPlates.png)
+
+
 Deliverable 3: Add an Additional Map
+
+![satelite map](https://github.com/AnaMMoreira/Mapping_Earthquakes/blob/main/EartherQuakes_TactonicPlates_satelite.png)
